@@ -30,9 +30,7 @@ const Home = () => {
           <MetaData title="NUmunch" />
 
           <div className="banner">
-            <p>Welcome to <span>NU</span>munch</p>
-            <h1>Order delicious food without standing in a queue.</h1>
-
+            haat bsdk
             {/* <a href="#container">
               <button>
                 Scroll <CgMouse />
