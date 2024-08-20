@@ -1,0 +1,37 @@
+.tnc {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.tnc h2 {
+    color: #c0c0c0;
+}
+
+.tnc h3 {
+    color: #555;
+}
+
+.tnc h4 {
+    color: #777;
+}
+
+.tnc p {
+    color: #888;
+}
+
+.tnc ul {
+    margin-left: 20px;
+    color: #999;
+}
+
+.tnc li {
+    margin-bottom: 10px;
+
+    
+}
+
+.tnc .bold-text {
+    font-weight: bold;
+}

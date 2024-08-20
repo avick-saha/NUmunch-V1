@@ -1,0 +1,50 @@
+.speedDial {
+  position: fixed;
+  right: 2.5vmax;
+  top: 10vmax;
+}
+
+.speedDialIcon {
+  width: 56px;
+  height: 56px;
+  border-radius: 100%;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+
+.navbar {
+  position: static;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  /* This value can be adjusted as needed */
+}
+
+.navbar span {
+  color: #f90000;
+}
+
+button.btn {
+  border-radius: 10%;
+  background-color: tomato;
+  border: none;
+  padding: 1vmax;
+  font: 300 1.1vmax "Roboto";
+  cursor: pointer;
+  color: white;
+  transition: all 0.5s;
+}
+
+button.btn:hover {
+  background-color: rgb(55, 97, 214);
+}
+
+@media screen and (max-width: 600px) {
+  button.btn {
+    font-size: 15px;
+  }
+}

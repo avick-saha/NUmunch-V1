@@ -1,0 +1,15 @@
+.loading {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  max-width: 100%;
+  animation: fadeIn 2s ease-out; /* Adding a fade-in animation with a 2-second delay */
+}
+
+.loading > img {
+  width: 10vmax;
+  height: 5vmax;
+ /* Initially set opacity to 0 */
+  animation: fadeInImg 800ms linear infinite, loaderRotate 2s linear; /* Adding a rotation animation with a 2-second delay */
+}

@@ -1,0 +1,37 @@
+.privacy-policy {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.privacy-policy h2 {
+    color: #333;
+}
+
+.privacy-policy h3 {
+    color: #555;
+}
+
+.privacy-policy h4 {
+    color: #777;
+}
+
+.privacy-policy p {
+    color: #888;
+}
+
+.privacy-policy ul {
+    margin-left: 20px;
+    color: #999;
+}
+
+.privacy-policy li {
+    margin-bottom: 10px;
+
+    
+}
+
+.privacy-policy .bold-text {
+    font-weight: bold;
+}
