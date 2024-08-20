@@ -162,7 +162,7 @@ const Shipping = ({ history }) => {
               type="submit"
               value="Continue"
               className="shippingBtn"
-              disabled={state ? false : true}
+              // disabled={state ? false : true}
             />
           </form>
         </div>
